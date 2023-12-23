@@ -81,7 +81,7 @@ class CustomButton extends StatelessWidget {
         color: colors.primary,
         child: InkWell(
           onTap: (){},
-          child: Padding(
+          child: const Padding(
             padding: EdgeInsets.symmetric(horizontal: 20, vertical: 10),
             child: Text('Boton Personalizado', style: TextStyle(color: Colors.white)),
           ),
