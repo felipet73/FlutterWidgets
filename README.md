@@ -1,3 +1,12 @@
 # widgets_app
 
-A new Flutter project.
+Flutter project with examples of the main Widgets.
+
+Buttons
+Cards
+Progress
+Scrolls
+theme
+UI controls
+
+
